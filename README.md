@@ -7,20 +7,18 @@ tracking, and hitting moving targets using computer vision
 and AI.
 
 ## Team
-
 - Ankit Shrivastava (ankit_s2@ch.iitr.ac.in) | (ankitsh.work@gmail.com)
-- Devansh Sharma (devansh_s@cy.iitr.ac.in)
-- Anshuman Mishra (anshuman_m@ch.iitr.ac.in) | 
-- Akul Sharma (akul_s@ch.iitr.ac.in) | 
+- Devansh Sharma (devansh_s@cy.iitr.ac.in) | (sharmadevansh187@gmail.com)
+- Anshuman Mishra (anshuman_m@ch.iitr.ac.in) | (mishra.anshuman008@gmail.com)
+- Akul Sharma (akul_s@ch.iitr.ac.in) | (akulsharma1129@gmail.com)
 
 ## Current Stage
-
-Planning and initial research.
+Conceptualization 
 
 ## Project Goals
 
 - **Real-Time Target Detection**: Architect a low-latency CV pipeline to autonomously identify and classify targets in controlled lighting
-- **Multi-Axis Tracking**: Implement multi-object spatial tracking to continuously maintain target lock across 3D coordinates.
+- **Multi-Axis Tracking**: Implement spatial tracking to continuously maintain target lock across 3D coordinates.
 - 
 - Control the robot to aim and hit targets
 - Explore behavioural patterns in target movement
